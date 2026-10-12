@@ -11,6 +11,7 @@
     </div>
     <a href="{{ route('patients.create') }}" class="btn btn-primary">
         + Register New Patient
+        
     </a>
 </div>
 
